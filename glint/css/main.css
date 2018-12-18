@@ -2418,6 +2418,16 @@ html.no-csstransitions .home-content__main {
     margin-top: -.6rem;
 }
 
+#devicon-language {
+  font-size: 10rem;
+  margin-top: -.6rem;
+}
+
+#devicon-other {
+  font-size: 10rem;
+  margin-top: -.6rem;
+}
+
 
 /* -------------------------------------------------------------------
  * responsive:
